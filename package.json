@@ -1,0 +1,19 @@
+{
+  "name": "estore",
+  "version": "1.0.0",
+  "description": "Mern project for full e-com webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomtek/ecom-mern-project.git"
+  },
+  "author": "Tek Bam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomtek/ecom-mern-project/issues"
+  },
+  "homepage": "https://github.com/bomtek/ecom-mern-project#readme"
+}
